@@ -4,7 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Study/AndroidStudioProjects/Job_ALLEY/app/src/main/res/layout/activity_main.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/drawable/ic_baseline_bookmark_added_24.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1595" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1595" />
         <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/layout/activity_main.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/layout/card_cell.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/layout/fragment_home_.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/layout/fragment_notification_.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/layout/fragment_save__job_.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/layout/fragment_search__page_.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/layout/fragment_user.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/HP/Documents/GitHub/Job_ALLEY/app/src/main/res/layout/recyclerview_model.xml" value="0.1" />
       </map>
     </option>
   </component>
